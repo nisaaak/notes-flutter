@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "title": "notes 1",
+        "content": "content note 1",
+        "date": "Tue Aug 01 2022"
+    },
+    {
+        "id": 1,
+        "title": "notes 2",
+        "content": "content note 2",
+        "date": "Tue Aug 02 2022"
+    },
+    {
+        "id": 3,
+        "title": "notes 3",
+        "content": "content note 3",
+        "date": "Tue Aug 03 2022"
+    },
+    {
+        "id": 4,
+        "title": "notes 4",
+        "content": "content note 4",
+        "date": "Tue Aug 04 2022"
+    },
+    {
+        "id": 5,
+        "title": "notes 5",
+        "content": "content note 5",
+        "date": "Tue Aug 05 2022"
+    }
+]
